@@ -82,9 +82,9 @@ nav {
   
   .navicon div:before { top: -7px; }
   .navicon div:after { top: 7px; }
+  
 
 .top-header {
-
 	background-image: url(logo5.png);
 	width: 100%;
 	height: 325px;
